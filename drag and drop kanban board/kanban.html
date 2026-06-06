@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kanban Board</title>
+  <link rel="stylesheet" href="kanban.css">
+</head>
+<body>
+
+  <h1>Drag and Drop Kanban Board</h1>
+
+  <div class="task-form">
+    <input type="text" id="title" placeholder="Task Title">
+
+    <textarea
+      id="description"
+      placeholder="Task Description"></textarea>
+
+    <select id="priority">
+      <option value="Low">Low Priority</option>
+      <option value="Medium">Medium Priority</option>
+      <option value="High">High Priority</option>
+    </select>
+
+    <input type="date" id="dueDate">
+
+    <button id="addTaskBtn">Add Task</button>
+  </div>
+
+  <div class="board">
+
+    <div class="column">
+      <h2>To Do</h2>
+      <div class="task-list" id="todo"></div>
+    </div>
+
+    <div class="column">
+      <h2>In Progress</h2>
+      <div class="task-list" id="progress"></div>
+    </div>
+
+    <div class="column">
+      <h2>Done</h2>
+      <div class="task-list" id="done"></div>
+    </div>
+
+  </div>
+
+  <script src="kanban.js"></script>
+</body>
+</html>
