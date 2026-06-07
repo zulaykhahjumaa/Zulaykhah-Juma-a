@@ -591,3 +591,49 @@ flex-direction: column;
 gap: 50px; /* never collapses! */
 
 Unlike margins, gap is predictable and never collapses — making it the preferred choice in 2026.
+
+
+# PERSONAL REFLECTION #
+
+1. The hardest part for me was the Kanban board, to be honest.
+
+2. When I got stuck, I used AI, Google, and someone in the stack helped me a whole lot with this small thing that I did. And what worked the best for me was AI, Claude AI to be precise, it helped with the help of my personal person in the stack and myself too.
+
+3. I really don't know what to rate myself, but what I would do differently if I was to start over is "to start earlier" and ask questions about what I don't understand.
+
+
+
+# ENGINEERING BEST PRACTICE #
+
+I did the calculator building well and the password input well,  but the kanban board, I am not even done with it. I would have played with the CSS Styling a bit because I love to style but there's no time for me again. The "In Progress" and "Done" too are not functioning,  I would have loved to work on them.
+
+
+
+
+
+Before this break, I knew…
+
+1. How to use to HTML
+2. How to stlye with CSS
+3. How to use Tailwind CSS
+
+During this break, I learned…
+
+1. To deal with assignments under pressure
+2. JavaScript (Not enough to be proud of tho)
+3. To build a calculator.
+
+I'm still confused about…
+
+1. JavaScript
+2. JavaScript
+
+My growth areas…
+
+1. Tailwind CSS
+2. JavaScript
+
+One thing I'll do differently in the next project…
+
+Start earlier, and always ask for help when needed.
+
